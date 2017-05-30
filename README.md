@@ -22,7 +22,7 @@ npm install
 ```
 5. Type the following command to run express server on port 8080
 ```
-nodemon app
+nodemon app or npm start
 ```
 6. Open browser and navigate to localhost:8080 to view appication. If all is done correctly you should view the welcome home webpage.
 7. Try it out by registering, logging in and then logging out.
