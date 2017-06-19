@@ -33,7 +33,7 @@ nodemon app or npm start
 
 * Make sure to have mongodb installed, you can use postman for CRUD operations and to have MongDB hosting as a service try mLab, its free.  
 
-* Although you are free to use this application as you wish, we appreciate shout outs or linking back to our codebits website  https://www.creativebitstudio.com/codebits
+* Although you are free to use this application as you wish, we appreciate giving credit to the author or linking back to our codebits website page  https://www.creativebitstudio.com/codebits
 
 ### Authors
 
